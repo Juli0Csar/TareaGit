@@ -1,0 +1,10 @@
+body{
+    background-image: url(imgGit/9452-wall-texture-brick-4k.jpg);
+    background-size: cover;
+    
+}
+
+.container{
+    position: absolute;
+    
+}
