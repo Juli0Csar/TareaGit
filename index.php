@@ -12,6 +12,7 @@
            
           <img src="./imgGit/1SPRITE.png" alt=""> 
           <img src="./imgGit/2SPRITE.png" alt=""> 
+          <img src="./imgGit/3SPRITE.png" alt=""> 
           
     </section>
    
