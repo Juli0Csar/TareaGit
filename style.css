@@ -22,3 +22,25 @@ button{
 button img{
     width:100px ;
 }
+
+
+@keyframes aparecerDesaparecer {
+    0%, 100% {
+        opacity: 0; /* Al principio y al final, la imagen está invisible */
+    }
+    50% {
+        opacity: 1; /* A la mitad de la animación, la imagen está completamente visible */
+    }
+}
+
+@keyframes rotateAnimation {
+    0% {
+      transform: rotate(0deg);
+    }
+    50% {
+      transform: rotate(5deg);opacity: 1;
+    }
+    100% {
+      transform: rotate(0deg);
+    }
+  }
