@@ -8,10 +8,8 @@
 </head>
 <body>
     <section class="container">
-             
-           
+    
           <img src="./imgGit/1SPRITE.png" alt=""> 
-          <img src="./imgGit/2SPRITE.png" alt=""> 
           
     </section>
    
